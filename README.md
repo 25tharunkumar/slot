@@ -152,9 +152,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![Screenshot 2023-10-07 092238](https://github.com/25tharunkumar/slot/assets/123470785/b1162e84-a666-4e3c-9c17-7d60ce55616b)
-
-## HTML VALIDATOR
+![image](https://github.com/25tharunkumar/slot/assets/123470785/62f1863c-bc54-46d6-9795-fc11a357eaeb)
 
 
 ## RESULT
